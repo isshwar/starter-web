@@ -7,3 +7,7 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 # git rebase testing for advanced modules
+
+# additional changes for rebase testing
+:wq!
+
