@@ -1,5 +1,5 @@
 # Starter Web Repo
-
+## Git comparision operator for this project
 This repository is for showing how Git and GitHub work
 
 ## Purpose
